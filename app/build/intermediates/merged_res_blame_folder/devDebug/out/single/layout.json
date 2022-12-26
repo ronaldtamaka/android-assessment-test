@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.pokemon.app-mergeDevDebugResources-45:/layout/view_pokemon_stat.xml",
+        "source": "com.example.pokemon.app-main-50:/layout/view_pokemon_stat.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-mergeDevDebugResources-45:/layout/item_pokemon.xml",
+        "source": "com.example.pokemon.app-main-50:/layout/item_pokemon.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-mergeDevDebugResources-45:/layout/fragment_moves.xml",
+        "source": "com.example.pokemon.app-main-50:/layout/fragment_moves.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-mergeDevDebugResources-45:/layout/view_pokemon_type.xml",
+        "source": "com.example.pokemon.app-main-50:/layout/view_pokemon_type.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-mergeDevDebugResources-45:/layout/activity_list_pokemon.xml",
+        "source": "com.example.pokemon.app-main-50:/layout/activity_list_pokemon.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-mergeDevDebugResources-45:/layout/fragment_base_stat.xml",
+        "source": "com.example.pokemon.app-main-50:/layout/fragment_base_stat.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-mergeDevDebugResources-45:/layout/view_pokemon_move.xml",
+        "source": "com.example.pokemon.app-main-50:/layout/view_pokemon_move.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-mergeDevDebugResources-45:/layout/activity_detail_pokemon.xml",
+        "source": "com.example.pokemon.app-main-50:/layout/activity_detail_pokemon.xml"
+    }
+]

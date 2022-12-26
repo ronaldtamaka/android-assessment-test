@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.pokemon.app-main-50:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.pokemon.app-main-50:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/drawable_sample_artwork.png.flat",
+        "source": "com.example.pokemon.app-main-50:/drawable/sample_artwork.png"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.pokemon.app-main-50:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/layout_fragment_moves.xml.flat",
+        "source": "com.example.pokemon.app-main-50:/layout/fragment_moves.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.pokemon.app-main-50:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/layout_view_pokemon_stat.xml.flat",
+        "source": "com.example.pokemon.app-main-50:/layout/view_pokemon_stat.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/layout_activity_detail_pokemon.xml.flat",
+        "source": "com.example.pokemon.app-main-50:/layout/activity_detail_pokemon.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/layout_activity_list_pokemon.xml.flat",
+        "source": "com.example.pokemon.app-main-50:/layout/activity_list_pokemon.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.pokemon.app-main-50:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.pokemon.app-main-50:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.pokemon.app-main-50:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.pokemon.app-main-50:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.pokemon.app-main-50:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.pokemon.app-main-50:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/layout_view_pokemon_type.xml.flat",
+        "source": "com.example.pokemon.app-main-50:/layout/view_pokemon_type.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.pokemon.app-main-50:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/layout_item_pokemon.xml.flat",
+        "source": "com.example.pokemon.app-main-50:/layout/item_pokemon.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.pokemon.app-main-50:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/layout_fragment_base_stat.xml.flat",
+        "source": "com.example.pokemon.app-main-50:/layout/fragment_base_stat.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.pokemon.app-main-50:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/layout_view_pokemon_move.xml.flat",
+        "source": "com.example.pokemon.app-main-50:/layout/view_pokemon_move.xml"
+    },
+    {
+        "merged": "com.example.pokemon.app-merged_res-46:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.pokemon.app-main-50:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
